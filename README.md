@@ -1,4 +1,4 @@
 imbomodule-zf2
 ==============
 
-ZF2 Module for Imbo
+ZF2 Module for Imbo PHP Client
