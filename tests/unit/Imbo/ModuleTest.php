@@ -1,7 +1,7 @@
 <?php
     namespace Imbo;
 
-    class ClientTest extends \PHPUnit_Framework_TestCase {
+    class ModuleTest extends \PHPUnit_Framework_TestCase {
 
         public function setUp() {
 
@@ -12,7 +12,7 @@
         }
 
         public function testConstruct() {
-           $imboClient = new Client();
+           $imboClient = new Module();
            $this->assertTrue(true);
         }
 

@@ -1,7 +1,7 @@
 <?php
     namespace Imbo;
 
-    class Client {
+    class Module {
         public function __construct() {
 
         }
